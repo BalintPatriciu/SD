@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1683796447 source:c:\users\o\desktop\info\sem 2\sd\proiect sd\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<windows.h>
+
+1683796447 source:c:\users\o\desktop\info\sem 2\sd\proiect sd\proiect sd\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<windows.h>
+

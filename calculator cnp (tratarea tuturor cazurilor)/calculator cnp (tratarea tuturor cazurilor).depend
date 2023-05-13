@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683989909 source:c:\users\o\desktop\info\sem 2\sd\calculator cnp (tratarea tuturor cazurilor)\main.cpp
+	<iostream>
+	<string.h>
+
